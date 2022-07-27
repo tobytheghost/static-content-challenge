@@ -1,6 +1,8 @@
-# Static Content challenge - mid-level
+# Static Content challenge
 
-**NB: Please do not fork this repository, to avoid your solution being visible from this repository's GitHub page. Please clone this repository and submit your solution as a separate repository.**
+Live deployment: https://toby-static-content-challenge.herokuapp.com/
+
+## Challenge
 
 Business Scenario: Acme Co's marketing department want a simple content management system and you've been tasked with building the MVP.
 
