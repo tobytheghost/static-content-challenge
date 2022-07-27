@@ -1,6 +1,10 @@
 # Static Content challenge
 
-Live deployment: https://toby-static-content-challenge.herokuapp.com/
+Live deployment (heroku): https://toby-static-content-challenge.herokuapp.com/
+
+## How to run
+
+Clone the repo then run `npm run dev` to start the nodemon server.
 
 ## Challenge
 
